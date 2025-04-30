@@ -1,0 +1,19 @@
+#esmaltes {
+    color: purple;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#jogadores {
+    color: darkblue;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style: disc;
+
+}
+#jogadores li::marker {
+    color: rgb(40, 42, 43);
+    font-size: 30px;
+
+}
+
